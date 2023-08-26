@@ -61,8 +61,6 @@ button {
 .header-cont {
   display: flex;
   justify-content: space-between;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .nav-list {
@@ -72,6 +70,7 @@ button {
 
 .nav-page {
   display: flex;
+  align-items: center;
 }
 
 .logo {
@@ -90,13 +89,17 @@ button {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.nav-list-item {
+.nav-list-item-text {
   color: #2e2f42;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.32px;
+}
+
+.header-list-item {
+  padding: 24px 0;
 }
 
 .nav-list:hover,
