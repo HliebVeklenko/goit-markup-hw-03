@@ -366,9 +366,12 @@ button {
 }
 
 .logo-studio-footer {
+  color: #f4f4fd;
+}
+
+.footer-logo {
   margin-bottom: 16px;
   display: inline-block;
-  color: #f4f4fd;
 }
 
 .footer-text {
