@@ -98,8 +98,9 @@ button {
   letter-spacing: 0.32px;
 }
 
-.header-list-item {
-  padding: 24px 0;
+.header-content {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .nav-list:hover,
@@ -210,7 +211,7 @@ button {
   line-height: 1.2;
   letter-spacing: 0.4px;
   color: #2e2f42;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 .features-list-text {
