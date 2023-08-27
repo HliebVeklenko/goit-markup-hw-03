@@ -111,10 +111,6 @@ button {
   color: #2e2f42;
 }
 
-.logo-studio-footer {
-  color: #f4f4fd;
-}
-
 .address {
   font-style: normal;
   line-height: 1.5;
@@ -363,9 +359,16 @@ button {
 
 .footer-field {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 
 .footer-field-cont {
+}
+
+.logo-studio-footer {
+  margin-bottom: 16px;
+  display: inline-block;
+  color: #f4f4fd;
 }
 
 .footer-text {
