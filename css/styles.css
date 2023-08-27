@@ -320,7 +320,6 @@ button {
   gap: 32px;
   flex-shrink: 0;
 
-  border: 1px solid #e7e9fc;
   background: #fff;
 }
 
@@ -360,9 +359,6 @@ button {
 .footer-field {
   background-color: #2e2f42;
   padding: 100px 0;
-}
-
-.footer-field-cont {
 }
 
 .logo-studio-footer {
